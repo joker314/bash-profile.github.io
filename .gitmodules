@@ -1,0 +1,6 @@
+[submodule "lib/prefixer.js"]
+	path = lib/prefixer.js
+	url = https://github.com/liam4/prefixer.js
+[submodule "lib/koel"]
+	path = lib/koel
+	url = https://github.com/tjvr/koel

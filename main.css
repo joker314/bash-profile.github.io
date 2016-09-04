@@ -1,0 +1,34 @@
+main {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.entries {
+  text-align: initial;
+  margin-bottom: 15px;
+}
+
+.entry {
+  background: #EEE;
+  padding: 5px;
+  border-bottom: 1px solid #CCC;
+  margin-bottom: 3px;
+}
+
+pre {
+  margin: 3px 0;
+  line-height: 1.5em;
+}
+
+iframe {
+  border: 0;
+}
+
+#epic-frame {
+  border: 1px solid #EEE;
+  border-radius: 3px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+}
